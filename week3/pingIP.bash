@@ -5,6 +5,7 @@ ip=""
 
 while read -r line
 do
-	ip=${echo "${line}" | cut -d '/' -f 1}
-	ping "${ip}"
+#	ip=${echo "${line}" | cut -d '/' -f 1}
+#	ping "${ip}"
+	ping "$line"
 done < "$input"
