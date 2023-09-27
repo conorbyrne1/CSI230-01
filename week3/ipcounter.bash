@@ -9,6 +9,6 @@ for i in {1..254}
 	do
 		#finein="$(printf %s ${ip} ${i} / ${end})"
 		#echo "${filein}" >> ipoperations.txt
-		output="${ip}""${i}""/""${end}"
+		output="${ip}""${i}"
 		printf "${output}\n" >> ipoperations.txt
 	done
