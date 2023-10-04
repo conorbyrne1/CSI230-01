@@ -1,0 +1,6 @@
+/home/CSI230-01/week3/ipcounter.bash
+bash /home/CSI230-01/week3/ipcounter.bash
+
+
+
+
