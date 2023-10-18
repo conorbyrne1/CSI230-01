@@ -1,0 +1,4 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"16384","DESKTOP-2VM2PJR","System.Byte[]","689","(0)","0","Information","Successfully scheduled Software Protection service for re-start at 2023-10-19T18:20:39Z. Reason: RulesEngine.","Software Protection Platform Service","System.String[]","1073758208","10/18/2023 2:40:39 PM","10/18/2023 2:40:39 PM",,,
+"15","DESKTOP-2VM2PJR","System.Byte[]","688","(0)","0","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","15","10/18/2023 2:40:10 PM","10/18/2023 2:40:10 PM",,,
+"15","DESKTOP-2VM2PJR","System.Byte[]","687","(0)","0","Information","Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","15","10/18/2023 2:40:10 PM","10/18/2023 2:40:10 PM",,,
