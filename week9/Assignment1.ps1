@@ -51,3 +51,4 @@ Export-Csv -Path $filePath
 #change every .csv to .log
 $files=Get-ChildItem -Recurse -File
 $files | Rename-Item -NewName { $_.Name -Replace '.csv','.log' }
+Get-ChildItem -Recurse -Name
